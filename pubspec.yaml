@@ -1,0 +1,64 @@
+version: 1.0.0+9
+publish_to: 'none'
+name: pulsar_fit
+description: Mobile application.
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  dio:
+  intl:
+  http:
+  bloc:
+  hive:
+  share: 
+  badges:
+  equatable:
+  hive_flutter:
+  flutter_bloc:
+  photo_view:
+  expandable:
+  url_launcher:
+  video_player:
+  flutter_swiper:
+  pull_to_refresh:
+  carousel_slider: 
+  just_debounce_it:
+  pretty_dio_logger:
+  separated_column:
+  firebase_messaging: 
+  google_maps_flutter:
+  flutter_multi_carousel:
+  font_awesome_flutter:
+  curved_navigation_bar:
+  youtube_player_iframe:
+  cached_network_image:
+  signal_strength_indicator:
+  flutter_widget_from_html:
+
+dev_dependencies:
+  pedantic:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/flags/
+    - assets/images/logo/
+  fonts:
+    - family: Muli
+      fonts:
+        - asset: assets/fonts/muli_regular.ttf
+          weight: 400
+        - asset: assets/fonts/muli_bold.ttf
+          weight: 700
+    - family: AppIcons
+      fonts:
+        - asset: assets/icomoon/fonts/icomoon.ttf

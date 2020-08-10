@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "465358566307",
+    "firebase_url": "https://pulsar_fit-a33d7.firebaseio.com",
+    "project_id": "pulsar_fit-a33d7",
+    "storage_bucket": "pulsar_fit-a33d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465358566307:android:3e89bd2f5c410131c42016",
+        "android_client_info": {
+          "package_name": "ba.pulsarfit.newsportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465358566307-0f8i4bdbj8klshnopd93arqg9i5o1c3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoG2VdxrQwWaOzMKuo6AhK_4CxmDLVXDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465358566307-0f8i4bdbj8klshnopd93arqg9i5o1c3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465358566307:android:80fbd03e82c4c4d4c42016",
+        "android_client_info": {
+          "package_name": "ba.pulsarfit.pulsar_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465358566307-0f8i4bdbj8klshnopd93arqg9i5o1c3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoG2VdxrQwWaOzMKuo6AhK_4CxmDLVXDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465358566307-0f8i4bdbj8klshnopd93arqg9i5o1c3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

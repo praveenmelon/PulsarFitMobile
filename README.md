@@ -1,2 +1,0 @@
-# PulsarFitMobile
-Mobile fitness application.
